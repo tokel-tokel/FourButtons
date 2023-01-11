@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FourButtons</string>
+    <string name="button1_text">Кнопка Степана</string>
+    <string name="button2_text">Кнопка Саввы</string>
+    <string name="button3_text">Кнопка Вани</string>
+    <string name="button4_text">Кнопка Пети</string>
+    <string name="default_bottom_text">Нажмите на кнопку</string>
+</resources>
